@@ -199,4 +199,4 @@ After logging in, create a dashboard by importing an existing Pod Health dashboa
 
 6. **Section 5 — Configure notifications:** Under **Notification Policy**, ensure the alert labels route to the `Slack-Alerts` contact point created in Step 2.
 
-7. Click **Save rule and exit**.
+7. Click **Save rule and exit***.
